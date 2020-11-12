@@ -12,13 +12,26 @@ resultant image in response
 ![result](result.jpg)
 
 
-syntax 
+## syntax 
 
 ```
 127.0.0.1:8000/width/height
 
 ```
 
+## installation 
+
+
+
+```python 
+pip3 install -r requirements.txt
+```
+
+## Tested System spec 
+
+Operating system : Ubuntu 20.04
+
+Python : 3.8.5
 
 
 
