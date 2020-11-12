@@ -1,6 +1,6 @@
 # lorem_images
 
-Add your desired image size (width & height) after our URL, and you'll get a random image.
+Add your desired image size (width & height) after base URL, and you'll get a random image.
 
 ```
 127.0.0.1:8000/400/400
