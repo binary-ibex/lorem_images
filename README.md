@@ -27,7 +27,7 @@ resultant image in response
 pip3 install -r requirements.txt
 ```
 
-## Tested System spec 
+## Tested system spec 
 
 Operating system : Ubuntu 20.04
 
